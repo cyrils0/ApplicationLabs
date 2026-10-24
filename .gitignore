@@ -3,3 +3,4 @@ __pycache__/
 result/
 .idea/
 downloads
+test_iterator.py
